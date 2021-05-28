@@ -1,0 +1,12 @@
+ID
+full_name
+dob
+sex
+quoc_tich
+que_quan_0
+que_quan_1
+noi_thuong_tru_0
+noi_thuong_tru_1
+face
+hsd
+dan_toc
